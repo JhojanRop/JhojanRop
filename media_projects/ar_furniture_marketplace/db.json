@@ -1,0 +1,241 @@
+{
+	"chairs": [
+		{
+			"id": 1,
+			"name": "Gray Fabric Upholstered Chairs",
+			"description": "These chairs feature a light gray fabric upholstery and wooden legs. The chairs are placed next to each other, facing the same direction, with a slightly curved backrest and straight armrests. They sit elegantly on a black background.",
+			"price": 199.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0101.webp",
+			"variations": [
+				{
+					"color": "#dbd6d6",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0101.webp"
+				},
+				{
+					"color": "#ffcb38",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0102.webp"
+				},
+				{
+					"color": "#596f91",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0103.webp"
+				},
+				{
+					"color": "#000000",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0104.webp"
+				},
+				{
+					"color": "#817833",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0105.webp"
+				},
+				{
+					"color": "#c54633",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0106.webp"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Yellow Velvet Armchair",
+			"description": "This yellow armchair with a wooden frame and black legs exudes style and comfort. Upholstered in luxurious yellow velvet fabric, it features plush cushions and sleek lines for an elegant look.",
+			"price": 249.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0201.webp",
+			"variations": [
+				{
+					"color": "#ffcb38",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0201.webp"
+				},
+				{
+					"color": "#c8a487",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0202.webp"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Brown Upholstered Chairs",
+			"description": "This set of two chairs boasts brown upholstery and wooden legs, creating a modern and minimalist design with clean lines and an elegant look. The warm brown fabric upholstery adds warmth and comfort to these chairs, making them suitable for any room.",
+			"price": 179.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0301.webp",
+			"variations": [
+				{
+					"color": "#9e5320",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0301.webp"
+				},
+				{
+					"color": "#ffcb38",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0302.webp"
+				},
+				{
+					"color": "#1c3226",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0303.webp"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Yellow Upholstered Chair",
+			"description": "A yellow upholstered chair with wooden legs and a curved backrest. This chair features a simple, modern design with light yellow fabric upholstery and elegant wooden legs. Designed for versatility and sophistication.",
+			"price": 159.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0401.webp",
+			"variations": [
+				{
+					"color": "#ffcb38",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0401.webp"
+				},
+				{
+					"color": "#42604d",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0402.webp"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Gray Armchair",
+			"description": "This gray armchair with wooden legs and a round backrest features light gray fabric upholstery. With a simple and modern design, it combines clean lines and a minimalist aesthetic for a comfortable and functional look.",
+			"price": 189.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/05.webp",
+			"variations": [
+				{
+					"color": "#d1ccc6",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/05.webp"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Blue Armchair",
+			"description": "This blue armchair with a wooden base and legs features a dark blue fabric upholstery and sleek, modern wooden armrests. Its minimalist and contemporary design adds a touch of sophistication to any space.",
+			"price": 199.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0601.webp",
+			"variations": [
+				{
+					"color": "#605f7d",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0601.webp"
+				},
+				{
+					"color": "#783f19",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/0602.webp"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Beige Fabric Armchair",
+			"description": "This beige fabric armchair features wooden legs and a curved backrest with a buttoned seat cushion. With a minimalist and modern design, it combines comfort and style seamlessly.",
+			"price": 169.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/07.webp",
+			"variations": [
+				{
+					"color": "#f5f5dc",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/chairs/07.webp"
+				}
+			]
+		}
+	],
+	"sofas": [
+		{
+			"id": 1,
+			"name": "White Metal-Leg Sofa",
+			"description": "This white sofa features a curved back and legs made of metal. With its simple and modern design, it adds a clean and minimalist touch to your space.",
+			"price": 299.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/01.webp",
+			"variations": [
+				{
+					"color": "#FFFFFF",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/01.webp"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Beige Wooden Frame Sofa",
+			"description": "This beige sofa comes with two cushions and a wooden frame. The beige fabric cushions on the seat, backrest, and arms create a simple and elegant design.",
+			"price": 249.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/02.webp",
+			"variations": [
+				{
+					"color": "#F5F5DC",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/02.webp"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Modern Beige Wooden-Leg Sofa",
+			"description": "This beige sofa features a wooden frame and legs, offering a modern design with clean lines and a minimalist aesthetic. The firm cushions provide excellent support for your comfort.",
+			"price": 269.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/03.webp",
+			"variations": [
+				{
+					"color": "#F5F5DC",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/03.webp"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "White Wooden-Frame Sofa",
+			"description": "This white sofa boasts a wooden frame and a cushioned seat and backrest. Its simple and elegant design, combined with the dark wood legs, stands out against a black background.",
+			"price": 289.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/04.webp",
+			"variations": [
+				{
+					"color": "#FFFFFF",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/04.webp"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "White Wooden Base Sofa",
+			"description": "This white sofa comes with a wooden base and a curved backrest. The minimalist design and neutral color scheme create a modern look.",
+			"price": 279.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/05.webp",
+			"variations": [
+				{
+					"color": "#FFFFFF",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/05.webp"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Beige Minimalist Sofa",
+			"description": "This beige sofa with wooden legs and armrests is designed with clean lines and a neutral color scheme. It offers a modern and minimalist look, perfect for various settings.",
+			"price": 259.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/06.webp",
+			"variations": [
+				{
+					"color": "#F5F5DC",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/06.webp"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Beige Wool Fabric Sofa",
+			"description": "This beige sofa has a simple and modern design, made from wool fabric. The slightly raised backrest and firm cushions provide a comfortable and inviting look.",
+			"price": 269.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/07.webp",
+			"variations": [
+				{
+					"color": "#F5F5DC",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/07.webp"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Beige Minimalist Wooden-Frame Sofa",
+			"description": "This beige sofa features a wooden frame, cushioned seat and backrest, and dark wood legs. The slightly raised backrest adds to the inviting look of the sofa.",
+			"price": 279.99,
+			"defaultImage": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/08.webp",
+			"variations": [
+				{
+					"color": "#F5F5DC",
+					"image": "https://raw.githubusercontent.com/JhojanRop/JhojanRop/main/media_projects/ar_furniture_marketplace/sofas/08.webp"
+				}
+			]
+		}
+	]
+}
